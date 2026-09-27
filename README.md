@@ -6,7 +6,7 @@ A modern twist on 2048 — featuring arithmetic operations, warnings, move limit
 
 ## 🔗 Live Demo
 
-Play it here: [Fusion Grid on GitHub Pages](https://atac-helicopter.github.io/Fusion-Gird/)
+Play it here: [Fusion Grid on GitHub Pages](https://fglabs-dev.github.io/Fusion-Grid/)
 
 ## 🧠 Game Concept
 
